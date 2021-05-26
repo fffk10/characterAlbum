@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Characters</string>
+    <string name="home_text">ホーム</string>
+    <string name="FF7_text">FF7</string>
+    <string name="FF7_character1_text">クラウド</string>
+    <string name="FF7_character2_text">ティファ</string>
+    <string name="FF7_character3_text">エアリス</string>
+    <string name="FF8_text">FF8</string>
+    <string name="FF8_character1_text">スコール</string>
+    <string name="FF8_character2_text">リノア</string>
+    <string name="FF9_text">FF9</string>
+    <string name="FF9_character1_text">ジタン</string>
+    <string name="FF9_character2_text">ビビ</string>
+    <string name="FF9_character3_text">フライヤ</string>
+    <string name="FF10_text">FF10</string>
+    <string name="FF10_character1_text">ティーダ</string>
+    <string name="FF10_character2_text">ユウナ</string>
+    <string name="FF10_character3_text">リュック</string>
+    <string name="FF13_text">FF13</string>
+    <string name="FF13_character1_text">ライトニング</string>
+    <string name="FF13_character2_text">ファング</string>
+    <string name="FF13_character3_text">ヴァニラ</string>
+    <string name="FF15_text">FF15</string>
+    <string name="FF15_character1_text">ノクティス</string>
+    <string name="mail_text">send mail</string>
+    <string name="sms_text">sms</string>
+</resources>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="@string/home_text"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/FF7"
+        android:title="@string/FF7_text">
+        <menu>
+            <item
+                android:id="@+id/FF7_character1"
+                android:title="@string/FF7_character1_text" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/FF8"
+        android:title="@string/FF8_text">
+        <menu>
+            <item
+                android:id="@+id/FF8_character1"
+                android:title="@string/FF8_character1_text" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/FF9"
+        android:title="@string/FF9_text">
+        <menu>
+            <item
+                android:id="@+id/FF9_character2"
+                android:title="@string/FF9_character2_text" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/FF10"
+        android:title="@string/FF10_text">
+        <menu>
+            <item
+                android:id="@+id/FF10_character1"
+                android:title="@string/FF10_character1_text" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/FF13"
+        android:title="@string/FF13_text">
+        <menu>
+            <item
+                android:id="@+id/FF13_character1"
+                android:title="@string/FF13_character1_text" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/FF15"
+        android:title="@string/FF15_text">
+        <menu>
+            <item
+                android:id="@+id/FF15_character1"
+                android:title="@string/FF15_character1_text" />
+        </menu>
+    </item>
+</menu>
